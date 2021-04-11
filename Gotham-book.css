@@ -1,0 +1,9 @@
+/* Normal */
+@font-face {
+    font-family: 'Gotham';
+    src: url('gotham-rounded-book.woff') format('woff'),
+         url('gotham-rounded-book.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
